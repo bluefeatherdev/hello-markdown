@@ -1,7 +1,5 @@
 # Basic Syntax
 
---- 
-
 ```markdown
 # Heading level 1
 ## Heading level 2
@@ -18,7 +16,7 @@
 ##### Heading level 5
 ###### Heading level 6
 
----
+## Alternate Syntax
 
 ```markdown
 Heading level 1
@@ -34,9 +32,7 @@ Heading level 1
 Heading level 2
 ---------------
 
----
-
-# Heading Best Practices
+## Heading Best Practices
 
 ```markdown
 Try to put a blank line before...
@@ -45,8 +41,6 @@ Try to put a blank line before...
 
 ...and after a heading.
 ```
-
----
 
 # Paragraphs
 
@@ -195,7 +189,7 @@ This is really***very***important text.
 ## Blockquotes with Multiple Paragraphs
 
 ```markdown
-beautiful rooms in her castle.
+> Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 ```
