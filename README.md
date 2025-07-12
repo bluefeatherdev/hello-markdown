@@ -4,9 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/notes-obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=101010)
 
 
-Repositorio de notas, ejemplos y recursos útiles sobre **Markdown**.
-
-Este proyecto nació para fortalecer mis conocimientos en Markdown y aplicarlos en documentación técnica como `README.md`, proyectos en GitHub, Obsidian y más.
+Repositorio de notas, ejemplos y recursos útiles sobre **Markdown**, para fortalecer mis conocimientos en Markdown y aplicarlos en documentación técnica como `README.md`, proyectos en GitHub, Obsidian y más.
 
 ## Fuentes de aprendizaje
 
