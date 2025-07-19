@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/markup-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/notes-obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=101010)
 
+![](./images/header.png)
 
 Repositorio de notas, ejemplos y recursos útiles sobre **Markdown**, para fortalecer mis conocimientos en Markdown y aplicarlos en documentación técnica como `README.md`, proyectos en GitHub, Obsidian y más.
 
