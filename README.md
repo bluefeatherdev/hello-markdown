@@ -32,4 +32,4 @@ Markdown es simple, rápido y compatible con muchas plataformas como GitHub, Obs
 - Aplicar lo aprendido en proyectos reales
 - Mejorar mis habilidades de documentación como desarrollador
 
-> Hello World! '\u{2665}'
+> Made with '\u{2665}' (♥)
