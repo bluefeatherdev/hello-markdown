@@ -1,7 +1,6 @@
 # Hello, Markdown!
 
 ![Static Badge](https://img.shields.io/badge/markup-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)
-![Static Badge](https://img.shields.io/badge/notes-obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=101010)
 
 Repository of notes, examples, and useful resources about **Markdown**, to strengthen my knowledge of Markdown and apply it in technical documentation such as `README.md`, GitHub projects, Obsidian, and more.
 
