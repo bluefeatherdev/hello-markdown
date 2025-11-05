@@ -710,22 +710,22 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 ## Characters You Can Escape
 
-| Character | Name                                        |
-|-----------|---------------------------------------------|
-| `\`       | backslash                                   |
-| `` ` ``   | backtick *(see also escaping backticks)*    |
-| `*`       | asterisk                                    |
-| `_`       | underscore                                  |
-| `{}`      | curly braces                                |
-| `[]`      | brackets                                    |
-| `<>`      | angle brackets                              |
-| `()`      | parentheses                                 |
-| `#`       | pound sign                                  |
-| `+`       | plus sign                                   |
-| `-`       | minus sign *(hyphen)*                       |
-| `.`       | dot                                         |
-| `!`       | exclamation mark                            |
-| `|`       | pipe *(see also escaping pipe in tables)*   |
+| Character | Name                                     |
+| --------- | ---------------------------------------- |
+| `\`       | backslash                                |
+| `` ` ``   | backtick *(see also escaping backticks)* |
+| `*`       | asterisk                                 |
+| `_`       | underscore                               |
+| `{}`      | curly braces                             |
+| `[]`      | brackets                                 |
+| `<>`      | angle brackets                           |
+| `()`      | parentheses                              |
+| `#`       | pound sign                               |
+| `+`       | plus sign                                |
+| `-`       | minus sign *(hyphen)*                    |
+| `.`       | dot                                      |
+| `!`       | exclamation mark                         |
+| `         | `                                        | pipe *(see also escaping pipe in tables)* |
 
 # HTML
 
