@@ -5,7 +5,7 @@
 
 Repository of notes, examples, and useful resources about **Markdown**, to strengthen my knowledge of Markdown and apply it in technical documentation such as `README.md`, GitHub projects, Obsidian, and more.
 
-![](./images/header.png)
+![](./images/header_hello_markdown.jpg)
 
 > This repository is licensed under the terms of the [Apache License 2.0](LICENSE).
 
