@@ -5,31 +5,31 @@
 
 ![](./images/header.png)
 
-Repositorio de notas, ejemplos y recursos útiles sobre **Markdown**, para fortalecer mis conocimientos en Markdown y aplicarlos en documentación técnica como `README.md`, proyectos en GitHub, Obsidian y más.
+Repository of notes, examples, and useful resources about **Markdown**, to strengthen my knowledge of Markdown and apply it in technical documentation such as `README.md`, GitHub projects, Obsidian, and more.
 
-## 👨‍💻 Fuentes de aprendizaje
+## Learning sources
 
-Aquí recojo las principales fuentes que estoy utilizando para aprender Markdown:
+Here I collect the main sources I am using to learn Markdown:
 
-- [Guía oficial de Obsidian](https://help.obsidian.md/)
+- [Official Obsidian Guide](https://help.obsidian.md/)
 
-- [Markdown Guide (completa y clara)](https://www.markdownguide.org/)
-- [Guía de escritura en GitHub](https://docs.github.com/es/get-started/writing-on-github)
+- [Markdown Guide (complete and clear)](https://www.markdownguide.org/)
+- [GitHub Writing Guide](https://docs.github.com/es/get-started/writing-on-github)
 
-## 🔍 Por qué aprender Markdown
+## Why learn Markdown
 
-Markdown es simple, rápido y compatible con muchas plataformas como GitHub, Obsidian, VSCode y blogs. Aprenderlo bien te permite:
+Markdown is simple, fast, and compatible with many platforms such as GitHub, Obsidian, VSCode, and blogs. Learning it well allows you to:
 
-- Escribir documentación clara y elegante
+- Write clear and elegant documentation
 
-- Mantener notas organizadas y portables
-- Enlazar ideas y crear tu propio sistema de conocimiento
+- Keep notes organized and portable
+- Link ideas and create your own knowledge system
 
-## 🎯 Objetivo del repositorio
+## Repository goal
 
-- Aprender Markdown desde lo básico hasta lo avanzado
+- Learn Markdown from basics to advanced
 
-- Aplicar lo aprendido en proyectos reales
-- Mejorar mis habilidades de documentación como desarrollador
+- Apply what I’ve learned in real projects
+- Improve my documentation skills as a developer
 
-> Made with '\u{2665}' (♥)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
